@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^18.7.15",
+    "csvtojson": "^2.0.10",
+    "js-yaml": "^4.1.0"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
